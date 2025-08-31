@@ -1,0 +1,13 @@
+$ git log
+commit adfa2f801b499b431d71b7624568b0f70e7c0921 (HEAD -> main)
+Author: rinrin-0141 <168decade@gmail.com>
+Date:   Sun Aug 31 15:09:40 2025 +0900
+
+    二回目のコミット
+
+commit 9da60dea8420de1969b61f6f199d7cdbdfcccbcc
+Author: rinrin-0141 <168decade@gmail.com>
+Date:   Sun Aug 31 14:40:09 2025 +0900
+
+    一回目のコミット
+
